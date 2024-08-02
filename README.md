@@ -5,8 +5,8 @@ Our approach focuses on processing and analysing the k LSBs of each pixel of the
 The DNN consists of a stack of different sub-nets. Each SubNet is composed of three main parts: a fully-connected dense layer equipped with a Rectified Linear Unit (ReLU), a batch-normalization layer and a dropout layer. The output layer of the DNN is instantiated on the basis of the specific task, detection or classification. 
 
 ## Dataset
-Data used in our experimentation are reported in our work [Detection of Steganographic Threats Targeting Digital Images in Heterogeneous Ecosystems Through Machine Learning
-]([https://github.com/Ocram95/Stego-Favicons-Dataset](https://isyou.info/jowua/papers/jowua-v13n3-4.pdf)).
+Data used in our experimentation are reported in our work ([Detection of Steganographic Threats Targeting Digital Images in Heterogeneous Ecosystems Through Machine Learning
+](https://isyou.info/jowua/papers/jowua-v13n3-4.pdf)).
 
 ## Authors
 The code is developed and maintained by Massimo Guarascio, Nunziato Cassavia and Marco Zuppelli (massimo.guarascio@icar.cnr.it , nunziato.cassavia@icar.cnr.it, marco.zuppelli@ge.imati.cnr.it)
